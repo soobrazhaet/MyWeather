@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="location">Location</string>
+    <string name="updated_at">Updated at</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="temperature">24°C</string>
+    <string name="place">DHAKA, BD</string>
+</resources>
